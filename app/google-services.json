@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "388730960785",
+    "project_id": "hit-iot-project",
+    "storage_bucket": "hit-iot-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388730960785:android:d484d71aa8142a2ab7b830",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388730960785-7knqlkq47lsm8auag8i39nta4qot9c0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8Vb0FMWn3EIvndURzV9yacfMgKprKilM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388730960785-7knqlkq47lsm8auag8i39nta4qot9c0t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
